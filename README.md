@@ -1,5 +1,5 @@
 # VisTutorial
-A Github repo for the source codes for the visualization tutorial at 2/27
+A Github repo for the source codes for the visualization tutorial at 2/26
 
 ### Dependencies
 - Anaconda (Python 3.6)
